@@ -60,18 +60,24 @@ Requests
 # ⚙️ Como Executar o Projeto
 
 ##Clone o repositório
+
 git clone https://github.com/seu-usuario/dashboard-vendas-streamlit.git
 cd dashboard-vendas-streamlit
 
 ##Crie e ative um ambiente virtual
+
 python -m venv venv
 venv\Scripts\activate  # (Windows)
+
 ##ou
+
 source venv/bin/activate  # (Linux/Mac)
 
 ##Instale as dependências
+
 pip install -r requirements.txt
 
 ##Execute o Streamlit
+
 streamlit run Dashboard.py
 
