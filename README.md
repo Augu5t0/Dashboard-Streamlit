@@ -1,15 +1,15 @@
-🛍️ Dashboard de Vendas – Streamlit
+# 🛍️ Dashboard de Vendas – Streamlit
 
 ![Demonstração do Dashboard](Dashboard.gif)
 
-📊 Sobre o Projeto
+# 📊 Sobre o Projeto
 
 Este projeto é um Dashboard Interativo de Vendas desenvolvido com Streamlit e Plotly, que consome dados da API pública LabDados
 .
 
 O objetivo é oferecer uma análise visual e dinâmica das vendas, permitindo explorar receitas, quantidades vendidas e desempenho de vendedores em diferentes regiões do Brasil.
 
-🚀 Funcionalidades
+# 🚀 Funcionalidades
 
 ✅ Filtros interativos na sidebar:
 
@@ -45,7 +45,7 @@ Exibição do número de linhas e colunas filtradas
 
 ✅ Multipáginas com Streamlit (Dashboard e Dados)
 
-🧠 Tecnologias Utilizadas
+# 🧠 Tecnologias Utilizadas
 
 Python 3.11+
 
@@ -57,21 +57,21 @@ Pandas
 
 Requests
 
-⚙️ Como Executar o Projeto
+# ⚙️ Como Executar o Projeto
 
-# Clone o repositório
+##Clone o repositório
 git clone https://github.com/seu-usuario/dashboard-vendas-streamlit.git
 cd dashboard-vendas-streamlit
 
-# Crie e ative um ambiente virtual
+##Crie e ative um ambiente virtual
 python -m venv venv
 venv\Scripts\activate  # (Windows)
-# ou
+##ou
 source venv/bin/activate  # (Linux/Mac)
 
-# Instale as dependências
+##Instale as dependências
 pip install -r requirements.txt
 
-# Execute o Streamlit
+##Execute o Streamlit
 streamlit run Dashboard.py
 
