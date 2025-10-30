@@ -61,7 +61,7 @@ Requests
 
 ##Clone o repositório
 
-git clone https://github.com/seu-usuario/dashboard-vendas-streamlit.git
+git clone https://github.com/Augu5t0/Dashboard-Streamlit.git
 cd dashboard-vendas-streamlit
 
 ##Crie e ative um ambiente virtual
